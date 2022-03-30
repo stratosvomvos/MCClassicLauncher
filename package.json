@@ -1,0 +1,20 @@
+{
+  "name": "Minecraft_Launcher2",
+  "version": "1.0.0",
+  "description": "minecraft java launcher for windows10",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/stratosvomvos",
+  "keywords": [
+    "Electron",
+    "games",
+    "launcher"
+  ],
+  "author": "stratosvomvos",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^9.0.2"
+  }
+}
